@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Tarea3-Taller-de-Integracion/static/css/main.515d5a94.chunk.css",
+    "main.js": "/Tarea3-Taller-de-Integracion/static/js/main.571d1cda.chunk.js",
+    "main.js.map": "/Tarea3-Taller-de-Integracion/static/js/main.571d1cda.chunk.js.map",
+    "runtime-main.js": "/Tarea3-Taller-de-Integracion/static/js/runtime-main.6a647e3c.js",
+    "runtime-main.js.map": "/Tarea3-Taller-de-Integracion/static/js/runtime-main.6a647e3c.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/Tarea3-Taller-de-Integracion/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.6383f5e1.chunk.js": "/Tarea3-Taller-de-Integracion/static/js/2.6383f5e1.chunk.js",
+    "static/js/2.6383f5e1.chunk.js.map": "/Tarea3-Taller-de-Integracion/static/js/2.6383f5e1.chunk.js.map",
+    "static/js/3.91da1cb9.chunk.js": "/Tarea3-Taller-de-Integracion/static/js/3.91da1cb9.chunk.js",
+    "static/js/3.91da1cb9.chunk.js.map": "/Tarea3-Taller-de-Integracion/static/js/3.91da1cb9.chunk.js.map",
+    "index.html": "/Tarea3-Taller-de-Integracion/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/Tarea3-Taller-de-Integracion/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.515d5a94.chunk.css.map": "/Tarea3-Taller-de-Integracion/static/css/main.515d5a94.chunk.css.map",
+    "static/js/2.6383f5e1.chunk.js.LICENSE.txt": "/Tarea3-Taller-de-Integracion/static/js/2.6383f5e1.chunk.js.LICENSE.txt",
+    "static/media/plane.d237a902.png": "/Tarea3-Taller-de-Integracion/static/media/plane.d237a902.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a647e3c.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.6383f5e1.chunk.js",
+    "static/css/main.515d5a94.chunk.css",
+    "static/js/main.571d1cda.chunk.js"
+  ]
+}
